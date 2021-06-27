@@ -181,4 +181,7 @@ footer{
     .jobs-container{
         grid-template-columns: repeat(1,1fr);
     }
+    .input-container input{
+        font-size: 14px;
+    }
 }
